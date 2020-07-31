@@ -9,4 +9,4 @@ por exemplo:
 
 ```
 M1;EURUSD;00:10:58;PUT
-```python
+```
